@@ -1,0 +1,12 @@
+{
+    "name": "TIC-TAC-TOA",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
